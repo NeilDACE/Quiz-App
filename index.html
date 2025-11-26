@@ -1,17 +1,55 @@
 <!DOCTYPE html>
 <html lang="de">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Quiz-App</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pokemon Quiz-App</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB"
+      crossorigin="anonymous"
+    />
+    <link rel="shortcut icon" href="img/favicon/favicon.ico" type="image/x-icon">
+  </head>
+  <body onload="init()">
+    <header><h1>Pokemon Quiz-App</h1></header>
+    <div class="container">
+      <div class="card quiz-card">
+        <img
+          src="img/Quiz-background-header.jpg"
+          class="card-img-top"
+          alt="Quizcard img"
+        />
+        <div class="card-body" id="cardContainer">
+          <h5 class="card-title" id="question_1">Frage</h5>
 
+          <div onclick="answer('answer_1')" class="card quiz-answer-card mb-2">
+            <div class="card-body" id="answer_1">Antwort</div>
+          </div>
+          <div onclick="answer('answer_2')" class="card quiz-answer-card mb-2">
+            <div class="card-body"id="answer_2">Antwort</div>
+          </div>
+          <div onclick="answer('answer_3')" class="card quiz-answer-card mb-2">
+            <div class="card-body"id="answer_3">Antwort</div>
+          </div>
+          <div onclick="answer('answer_4')" class="card quiz-answer-card mb-2">
+            <div class="card-body"id="answer_4">Antwort</div>
+          </div>
+          <div class="question-footer">
+            <span><b id="currentQuestionNumber">1</b> von <b id="numberOfAllQuestions"></b> Fragen</span>
+            <button type="button" class="btn btn-primary" id="nextQuestion" onclick="nextQuestion()">nächste Frage</button>
 
-
-  
-  
-</body>
-<script src="script.js"></script>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+  <script src="script.js"></script>
+  <script
+    src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+    crossorigin="anonymous"
+  ></script>
 </html>

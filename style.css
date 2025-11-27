@@ -1,5 +1,7 @@
 body{
-    background-image: url("img/pokemon-quiz-background.jpg");
+    background-image: url("img/background.png");
+    background-size: cover;
+    background-attachment: fixed;
 }
 .container{
     min-height: 100vh;

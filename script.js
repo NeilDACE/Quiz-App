@@ -1,323 +1,323 @@
 const question = [
   {
-    "question": "Welches Pokémon der ersten Generation hat die höchste Basis-KP (Kraftpunkte)?",
-    "answer_1": "Relaxo",
-    "answer_2": "Chaneira",
-    "answer_3": "Lapras",
-    "answer_4": "Arkani",
-    "right_answer": 2
-  },
-  {
-    "question": "Wie viele Orden muss man in der Kanto-Region (Generation 1) sammeln?",
-    "answer_1": "7",
-    "answer_2": "8",
-    "answer_3": "10",
-    "answer_4": "6",
-    "right_answer": 2
-  },
-  {
-    "question": "Welches der folgenden Pokémon entwickelt sich durch den Wasserstein?",
-    "answer_1": "Quaputzi",
-    "answer_2": "Evoli",
-    "answer_3": "Fukano",
-    "answer_4": "Vulpix",
-    "right_answer": 2
-  },
-  {
-    "question": "Welches der folgenden ist keines der Starter-Pokémon der ersten Generation?",
-    "answer_1": "Bisasam",
-    "answer_2": "Schiggy",
-    "answer_3": "Pikachu",
-    "answer_4": "Glumanda",
-    "right_answer": 3
-  },
-  {
-    "question": "Wie wird die Fähigkeit von Glurak (Generation 1) genannt?",
-    "answer_1": "Großbrand",
-    "answer_2": "Flammenkörper",
-    "answer_3": "Feuerfänger",
-    "answer_4": "Hitzeschutz",
+    "question": "Wie lautet der vollständige Name des Charakters, der der 'Prinz' genannt wird?",
+    "answer_1": "Severus Snape",
+    "answer_2": "Sirius Black",
+    "answer_3": "Regulus Black",
+    "answer_4": "Draco Malfoy",
     "right_answer": 1
   },
   {
-    "question": "Welches ist das legendäre Vogel-Trio der Kanto-Region?",
-    "answer_1": "Raikou, Entei, Suicune",
-    "answer_2": "Zapdos, Arktos, Lavados",
-    "answer_3": "Latias, Latios, Lugia",
-    "answer_4": "Mew, Mewtu, Zapdos",
+    "question": "Wie viele Geschwister hat Ron Weasley insgesamt?",
+    "answer_1": "5",
+    "answer_2": "6",
+    "answer_3": "7",
+    "answer_4": "4",
     "right_answer": 2
   },
   {
-    "question": "Welche Region ist der Schauplatz der Pokémon-Spiele der zweiten Generation (Gold, Silber, Kristall)?",
-    "answer_1": "Kanto",
-    "answer_2": "Hoenn",
-    "answer_3": "Johto",
-    "answer_4": "Sinnoh",
+    "question": "Welches Tier ist das Wappentier des Hauses Hufflepuff?",
+    "answer_1": "Löwe",
+    "answer_2": "Dachs",
+    "answer_3": "Schlange",
+    "answer_4": "Adler",
+    "right_answer": 2
+  },
+  {
+    "question": "Welches Schulfach unterrichtet Professor Flitwick?",
+    "answer_1": "Verteidigung gegen die Dunklen Künste",
+    "answer_2": "Zauberkunst",
+    "answer_3": "Kräuterkunde",
+    "answer_4": "Verwandlung",
+    "right_answer": 2
+  },
+  {
+    "question": "Welche der folgenden ist keine der unverzeihlichen Flüche?",
+    "answer_1": "Imperius-Fluch",
+    "answer_2": "Cruciatus-Fluch",
+    "answer_3": "Sectumsempra",
+    "answer_4": "Todesfluch (Avada Kedavra)",
     "right_answer": 3
   },
   {
-    "question": "Welches Pokémon entwickelt sich aus Pichu (Generation 2)?",
-    "answer_1": "Rattfratz",
-    "answer_2": "Pikachu",
-    "answer_3": "Evoli",
-    "answer_4": "Pii",
-    "right_answer": 2
-  },
-  {
-    "question": "Welches Item muss ein Nebulak halten, um sich beim Tausch zu Gengar zu entwickeln?",
-    "answer_1": "Finsterstein",
-    "answer_2": "Abyssplatte",
-    "answer_3": "Scharfklaue",
-    "answer_4": "Keines, es entwickelt sich ohne Item",
+    "question": "Welches ist Harry Potters Schutzpatronus?",
+    "answer_1": "Otter",
+    "answer_2": "Hirschkuh",
+    "answer_3": "Phönix",
+    "answer_4": "Hirsch",
     "right_answer": 4
   },
   {
-    "question": "Wer ist der Champ der Pokémon Liga in der Johto-Region (Generation 2)?",
-    "answer_1": "Rot",
-    "answer_2": "Blau",
-    "answer_3": "Lance",
-    "answer_4": "Siegfried",
+    "question": "Wie lautet der Name der Straße, in der die Dursleys wohnen?",
+    "answer_1": "Godric's Hollow",
+    "answer_2": "Ligusterweg",
+    "answer_3": "Kings Cross",
+    "answer_4": "Spinner's End",
+    "right_answer": 2
+  },
+  {
+    "question": "Was hält die Kammer des Schreckens verborgen?",
+    "answer_1": "Einen Thestral",
+    "answer_2": "Einen Basilisken",
+    "answer_3": "Eine Acromantula",
+    "answer_4": "Einen Drachen",
+    "right_answer": 2
+  },
+  {
+    "question": "Wie lautet der Name von Harrys Eule?",
+    "answer_1": "Pigwidgeon",
+    "answer_2": "Errol",
+    "answer_3": "Hedwig",
+    "answer_4": "Krummbein",
     "right_answer": 3
   },
   {
-    "question": "Wie lautet der Name der Baby-Form von Magmar (Generation 2)?",
-    "answer_1": "Elekid",
-    "answer_2": "Magby",
-    "answer_3": "Kussilla",
-    "answer_4": "Fluffeluff",
+    "question": "Welche Position spielt Harry im Quidditch?",
+    "answer_1": "Jäger",
+    "answer_2": "Treiber",
+    "answer_3": "Sucher",
+    "answer_4": "Hüter",
+    "right_answer": 3
+  },
+  {
+    "question": "Wie hieß der Erbauer von Hogwarts, der die Kammer des Schreckens erschuf?",
+    "answer_1": "Godric Gryffindor",
+    "answer_2": "Helga Hufflepuff",
+    "answer_3": "Salazar Slytherin",
+    "answer_4": "Rowena Ravenclaw",
+    "right_answer": 3
+  },
+  {
+    "question": "Was benötigt man, um ein echtes Polyjuice-Elixier herzustellen?",
+    "answer_1": "Haare der Person",
+    "answer_2": "Blut der Person",
+    "answer_3": "Einen Teil der Seele der Person",
+    "answer_4": "Einen Patronus der Person",
+    "right_answer": 1
+  },
+  {
+    "question": "Wie nennt man nicht-magische Menschen in der Zaubererwelt Großbritanniens?",
+    "answer_1": "Squibs",
+    "answer_2": "Mudbloods",
+    "answer_3": "Muggels",
+    "answer_4": "Azkabaner",
+    "right_answer": 3
+  },
+  {
+    "question": "Wer war der erste Professor für Verteidigung gegen die Dunklen Künste, den Harry kennenlernte?",
+    "answer_1": "Professor Quirrell",
+    "answer_2": "Professor Lockhart",
+    "answer_3": "Professor Lupin",
+    "answer_4": "Professor Moody",
+    "right_answer": 1
+  },
+  {
+    "question": "Wie lautet der Zauberspruch, um das Licht am Ende des Zauberstabs zu entzünden?",
+    "answer_1": "Lumos",
+    "answer_2": "Nox",
+    "answer_3": "Accio",
+    "answer_4": "Wingardium Leviosa",
+    "right_answer": 1
+  },
+  {
+    "question": "Wie heißt der dreiköpfige Hund, der den Stein der Weisen bewacht?",
+    "answer_1": "Krupp",
+    "answer_2": "Fell",
+    "answer_3": "Fluffy",
+    "answer_4": "Aragog",
+    "right_answer": 3
+  },
+  {
+    "question": "Was ist ein Animagus?",
+    "answer_1": "Ein Mensch, der sich in ein Tier verwandeln kann",
+    "answer_2": "Ein Zaubertrank, der das Aussehen ändert",
+    "answer_3": "Ein magisches Tierwesen",
+    "answer_4": "Ein Zauber, der Tiere beschwört",
+    "right_answer": 1
+  },
+  {
+    "question": "Wie lautet der Zauberspruch, um den Zauberstab eines Gegners zu entwaffnen?",
+    "answer_1": "Stupor",
+    "answer_2": "Expelliarmus",
+    "answer_3": "Petrificus Totalus",
+    "answer_4": "Protego",
     "right_answer": 2
   },
   {
-    "question": "Welche Region ist der Schauplatz der Pokémon-Spiele der dritten Generation (Rubin, Saphir, Smaragd)?",
-    "answer_1": "Johto",
-    "answer_2": "Hoenn",
-    "answer_3": "Sinnoh",
-    "answer_4": "Einall",
+    "question": "Welche Form nimmt ein Irrwicht an?",
+    "answer_1": "Eine riesige Spinne",
+    "answer_2": "Die schlimmste Angst der Person",
+    "answer_3": "Ein gesichtsloser Schatten",
+    "answer_4": "Eine tote Person",
     "right_answer": 2
   },
   {
-    "question": "Wie viele Typen-Kombinationen gab es bis zur dritten Generation?",
-    "answer_1": "17",
-    "answer_2": "16",
-    "answer_3": "100",
-    "answer_4": "136",
+    "question": "Wer ist der Hausgeist von Gryffindor?",
+    "answer_1": "Der Blutige Baron",
+    "answer_2": "Die Graue Dame",
+    "answer_3": "Der Fast Kopflose Nick",
+    "answer_4": "Der Fette Mönch",
+    "right_answer": 3
+  },
+  {
+    "question": "Was muss Harry tun, um den Sprechenden Hut dazu zu bringen, ihn in Gryffindor einzuteilen?",
+    "answer_1": "Nichts sagen",
+    "answer_2": "Slytherin ablehnen",
+    "answer_3": "Sich mutig fühlen",
+    "answer_4": "Seinen Namen rufen",
+    "right_answer": 2
+  },
+  {
+    "question": "Wie nennt man die dunklen Objekte, in die Voldemort seine Seele gespalten hat?",
+    "answer_1": "Horkruxe",
+    "answer_2": "Reliquien",
+    "answer_3": "Phönixe",
+    "answer_4": "Portschlüssel",
+    "right_answer": 1
+  },
+  {
+    "question": "Wie lautet der vollständige Name von Lord Voldemort?",
+    "answer_1": "Tom Riddle",
+    "answer_2": "Albus Dumbledore",
+    "answer_3": "Gellert Grindelwald",
+    "answer_4": "Lucius Malfoy",
+    "right_answer": 1
+  },
+  {
+    "question": "Welche der Heiligtümer des Todes ist KEIN physisches Objekt?",
+    "answer_1": "Der Elderstab",
+    "answer_2": "Der Tarnumhang",
+    "answer_3": "Der Stein der Auferstehung",
+    "answer_4": "Alle sind physische Objekte",
     "right_answer": 4
   },
   {
-    "question": "Welches der folgenden Pokémon kann die Fähigkeit 'Wassertempo' besitzen?",
-    "answer_1": "Knakrack",
-    "answer_2": "Tohaido",
-    "answer_3": "Glurak",
-    "answer_4": "Letarking",
+    "question": "Wer veranstaltet das trimagische Turnier?",
+    "answer_1": "Hogwarts und Beauxbatons",
+    "answer_2": "Hogwarts, Durmstrang und Beauxbatons",
+    "answer_3": "Hogwarts und Durmstrang",
+    "answer_4": "Das Ministerium für Zauberei",
     "right_answer": 2
   },
   {
-    "question": "Wie entwickelt sich Kokuna zu Bibor (Generation 1)?",
-    "answer_1": "Level 10",
-    "answer_2": "Tausch",
-    "answer_3": "Sonnstein",
-    "answer_4": "Level 7",
-    "right_answer": 1
-  },
-  {
-    "question": "Welches ist das Maskottchen des Teams Rocket in der ersten Generation?",
-    "answer_1": "Mauzi",
-    "answer_2": "Smettbo",
-    "answer_3": "Pikachu",
-    "answer_4": "Woingenau",
-    "right_answer": 1
-  },
-  {
-    "question": "Welches ist das einzige Drachen-Pokémon der ersten Generation (abgesehen von der Entwicklungslinie)?",
-    "answer_1": "Lavados",
-    "answer_2": "Mewtu",
-    "answer_3": "Dragoran",
-    "answer_4": "Garados",
+    "question": "Welche Zutat verwenden Harry, Ron und Hermine zuerst für das Polyjuice-Elixier im zweiten Jahr?",
+    "answer_1": "Flubberwürmer",
+    "answer_2": "Fliegenpilze",
+    "answer_3": "Haare von Crabbe und Goyle",
+    "answer_4": "Geschlüpfte Puffskeine",
     "right_answer": 3
   },
   {
-    "question": "Welches Pokémon hat die einzigartige Typenkombination Wasser/Boden in Generation 3?",
-    "answer_1": "Sumpex",
-    "answer_2": "Kyogre",
-    "answer_3": "Wailord",
-    "answer_4": "Seewal",
-    "right_answer": 1
-  },
-  {
-    "question": "Wie lautet der Name des Professor in der Hoenn-Region (Generation 3)?",
-    "answer_1": "Professor Eich",
-    "answer_2": "Professor Lind",
-    "answer_3": "Professor Birk",
-    "answer_4": "Professor Eibe",
+    "question": "Wie lautet die Nummer des Bahnsteigs, von dem der Hogwarts-Express abfährt?",
+    "answer_1": "9",
+    "answer_2": "10 1/2",
+    "answer_3": "9 3/4",
+    "answer_4": "7 1/4",
     "right_answer": 3
   },
   {
-    "question": "Wie viele Pokémon umfasst der Hoenn-Dex (Generation 3)?",
-    "answer_1": "202",
-    "answer_2": "150",
-    "answer_3": "135",
-    "answer_4": "251",
+    "question": "In welchem Jahr starb Albus Dumbledore?",
+    "answer_1": "6. Schuljahr",
+    "answer_2": "5. Schuljahr",
+    "answer_3": "7. Schuljahr",
+    "answer_4": "4. Schuljahr",
     "right_answer": 1
   },
   {
-    "question": "Welches Pokémon entwickelt sich durch den Donnerstein?",
-    "answer_1": "Vulpix",
-    "answer_2": "Pikachu",
-    "answer_3": "Evoli zu Aquana",
-    "answer_4": "Fukano",
-    "right_answer": 2
-  },
-  {
-    "question": "Welches Pokémon der ersten Generation hat den höchsten Basis-Angriffswert?",
-    "answer_1": "Machomei",
-    "answer_2": "Dragoran",
-    "answer_3": "Mewtu",
-    "answer_4": "Pinsir",
-    "right_answer": 3
-  },
-  {
-    "question": "Wie lautet der Name des Hauptrivalen in den Spielen Pokémon Gold und Silber?",
-    "answer_1": "Blau",
-    "answer_2": "Silber",
-    "answer_3": "Rot",
-    "answer_4": "Gary",
-    "right_answer": 2
-  },
-  {
-    "question": "Welches Item wird benötigt, damit Porygon zu Porygon2 (Generation 2) wird?",
-    "answer_1": "Up-Grade",
-    "answer_2": "Stromisierer",
-    "answer_3": "Metallmantel",
-    "answer_4": "Dubiosdisc",
-    "right_answer": 1
-  },
-  {
-    "question": "Welche Region führte die Fähigkeit 'Schwebe' ein?",
-    "answer_1": "Kanto",
-    "answer_2": "Johto",
-    "answer_3": "Hoenn",
-    "answer_4": "Sinnoh",
-    "right_answer": 3
-  },
-  {
-    "question": "Welches der folgenden Pokémon kann die Fähigkeit 'Innere Kraft' besitzen?",
-    "answer_1": "Guardevoir",
-    "answer_2": "Latios",
-    "answer_3": "Ninjatom",
-    "answer_4": "Heiteira",
+    "question": "Welches Tier ist der Wächter des Eingangs zum Ravenclaw-Gemeinschaftsraum (anstelle eines Passworts)?",
+    "answer_1": "Ein Greif",
+    "answer_2": "Ein Falke",
+    "answer_3": "Ein Adler",
+    "answer_4": "Ein bronzeener Türklopfer in Form eines Adlers",
     "right_answer": 4
   },
   {
-    "question": "Wie heißt der Kampfstil, der in Generation 3 eingeführt wurde und zwei Pokémon gleichzeitig kämpfen lässt?",
-    "answer_1": "Himmelskampf",
-    "answer_2": "Doppelkampf",
-    "answer_3": "Reihumkampf",
-    "answer_4": "Dreierkampf",
+    "question": "Welches ist das einzige Tierwesen, das die Dementoren nicht beeinflussen können?",
+    "answer_1": "Ein Thestral",
+    "answer_2": "Ein Hippogreif",
+    "answer_3": "Ein Basilisken",
+    "answer_4": "Ein Irrwicht",
+    "right_answer": 1
+  },
+  {
+    "question": "Wie heißt der Weasley-Zwilling, der später stirbt?",
+    "answer_1": "George",
+    "answer_2": "Fred",
+    "answer_3": "Percy",
+    "answer_4": "Charlie",
     "right_answer": 2
   },
   {
-    "question": "Welches Pokémon entwickelt sich aus Kindwurm in Generation 3?",
-    "answer_1": "Salamence",
-    "answer_2": "Brutalanda",
-    "answer_3": "Dracomet",
-    "answer_4": "Dratini",
-    "right_answer": 2
+    "question": "Wer ist der Minister für Zauberei, als Lord Voldemort zurückkehrt?",
+    "answer_1": "Cornelius Fudge",
+    "answer_2": "Rufus Scrimgeour",
+    "answer_3": "Kingsley Shacklebolt",
+    "answer_4": "Barty Crouch Sr.",
+    "right_answer": 1
   },
   {
-    "question": "Welche Attacke ist die Signature-Attacke von Rayquaza?",
-    "answer_1": "Draco Meteor",
-    "answer_2": "Fliegen",
-    "answer_3": "Zenitsturm",
-    "answer_4": "Hyperstrahl",
+    "question": "Welche magische Kreatur zieht die Kutschen zum Hogwarts-Express (für diejenigen, die es sehen können)?",
+    "answer_1": "Hippogreife",
+    "answer_2": "Zentaur",
+    "answer_3": "Thestrale",
+    "answer_4": "Fliegende Autos",
     "right_answer": 3
   },
   {
-    "question": "Welches legendäre Pokémon der Generation 3 gehört zum 'Äonen-Duo'?",
-    "answer_1": "Jirachi",
-    "answer_2": "Latios",
-    "answer_3": "Deoxys",
-    "answer_4": "Regigigas",
-    "right_answer": 2
+    "question": "Was war der Vorname von Dumbledores Schwester?",
+    "answer_1": "Ariana",
+    "answer_2": "Petunia",
+    "answer_3": "Merope",
+    "answer_4": "Muriel",
+    "right_answer": 1
   },
   {
-    "question": "Wie viele Pokémon umfasste die erste Generation insgesamt (inklusive Mew)?",
-    "answer_1": "150",
-    "answer_2": "151",
-    "answer_3": "100",
-    "answer_4": "251",
-    "right_answer": 2
+    "question": "Wie nennt man die magischen Gegenstände, die Erinnerungen speichern können?",
+    "answer_1": "Denkarium",
+    "answer_2": "Wunschbrunnen",
+    "answer_3": "Erinnerungszauber",
+    "answer_4": "Wahrheitskugel",
+    "right_answer": 1
   },
   {
-    "question": "Welche Pokémon-Art ist das Starter-Pokémon 'Endivie'?",
-    "answer_1": "Feuer-Typ",
-    "answer_2": "Pflanzen-Typ",
-    "answer_3": "Wasser-Typ",
-    "answer_4": "Normal-Typ",
-    "right_answer": 2
+    "question": "Welcher Zauberspruch wird verwendet, um eine Tür zu öffnen?",
+    "answer_1": "Alohomora",
+    "answer_2": "Reducto",
+    "answer_3": "Reparo",
+    "answer_4": "Colloportus",
+    "right_answer": 1
   },
   {
-    "question": "Welches Pokémon der zweiten Generation ist bekannt für die Fähigkeit, seine Statuswerte zu kopieren ('Imitation')?",
-    "answer_1": "Ditto",
-    "answer_2": "Farbeagle",
-    "answer_3": "Porygon2",
-    "answer_4": "Despotar",
-    "right_answer": 2
-  },
-  {
-    "question": "Welche neue Art von Attacken wurde in der dritten Generation eingeführt, die den Status des Gegners verändert?",
-    "answer_1": "Fähigkeitsattacken",
-    "answer_2": "Wetter-Attacken",
-    "answer_3": "Erb-Attacken",
-    "answer_4": "Fokus-Attacken",
-    "right_answer": 2
-  },
-  {
-    "question": "Welches Pokémon ist die Basisform von 'Iksbat' (Generation 2)?",
-    "answer_1": "Zubat",
-    "answer_2": "Golbat",
-    "answer_3": "Kramurx",
-    "answer_4": "Geowaz",
-    "right_answer": 2
-  },
-  {
-    "question": "Welches Item ermöglichte die Entwicklung von Evoli zu Nachtara (Generation 2)?",
-    "answer_1": "Mondstein",
-    "answer_2": "Finsterstein",
-    "answer_3": "Hohe Zuneigung und Level-Up in der Nacht",
-    "answer_4": "Hohe Zuneigung und Level-Up am Tag",
+    "question": "Wer ist Harrys Patenonkel?",
+    "answer_1": "Remus Lupin",
+    "answer_2": "James Potter",
+    "answer_3": "Sirius Black",
+    "answer_4": "Albus Dumbledore",
     "right_answer": 3
   },
   {
-    "question": "Welches der folgenden ist kein Mitglied der legendären Regi-Trio der Hoenn-Region?",
-    "answer_1": "Regirock",
-    "answer_2": "Registeel",
-    "answer_3": "Regice",
-    "answer_4": "Regigigas",
-    "right_answer": 4
+    "question": "Welches Fach unterrichtete Severus Snape, bevor er Professor für Verteidigung gegen die Dunklen Künste wurde?",
+    "answer_1": "Kräuterkunde",
+    "answer_2": "Zauberkunst",
+    "answer_3": "Zaubertränke",
+    "answer_4": "Alchemie",
+    "right_answer": 3
   },
   {
-    "question": "Welches Pokémon der ersten Generation hat die geringste Basis-Verteidigung?",
-    "answer_1": "Pummeluff",
-    "answer_2": "Chaneira",
-    "answer_3": "Flegmon",
-    "answer_4": "Rattfratz",
+    "question": "Welche Person der 'Rumtreiber' hatte den Spitznamen 'Wurmschwanz'?",
+    "answer_1": "Sirius Black",
+    "answer_2": "James Potter",
+    "answer_3": "Peter Pettigrew",
+    "answer_4": "Remus Lupin",
+    "right_answer": 3
+  },
+  {
+    "question": "In welchem Jahr erfährt Harry von der Existenz des Raumes der Wünsche (Room of Requirement)?",
+    "answer_1": "Im 4. Schuljahr",
+    "answer_2": "Im 5. Schuljahr",
+    "answer_3": "Im 6. Schuljahr",
+    "answer_4": "Im 3. Schuljahr",
     "right_answer": 2
-  },
-  {
-    "question": "Welche Attacke konnte in der ersten Generation den Statuswert 'Initiative' des Gegners senken?",
-    "answer_1": "Bodyguard",
-    "answer_2": "Blubber",
-    "answer_3": "Blitz",
-    "answer_4": "Sandwirbel",
-    "right_answer": 3
-  },
-  {
-    "question": "Welches Pokémon der dritten Generation hat die höchste Basis-Initiative?",
-    "answer_1": "Metagross",
-    "answer_2": "Gewaldro",
-    "answer_3": "Deoxys (Angriffsform)",
-    "answer_4": "Latios",
-    "right_answer": 3
   }
 ];
 
@@ -429,8 +429,8 @@ function resultTemplate() {
                 <p>Du hast <b id="correctAnswers"></b> von <b id="numberOfAllQuestions"></b> Fragen richtig beantwortet!</p>
                 <button type="button" class="btn btn-primary" onclick="restartQuiz()">Quiz neu starten</button>
                 <div class="winner-action-container">
-                  <p class="action" id="resultText">Herzlichen Glückwunsch! Du hast alle Fragen richtig beantwortet!</p>
-                  <img class="action-img" id="resultImg" src="img/all-answers-right-img.gif" alt="#">;
+                  <p class="action" id="resultText"></p>
+                  <img class="action-img" id="resultImg" src="" alt="#">;
                 </div>`;
 }
 
@@ -463,25 +463,25 @@ function showWinnerAction() {
 
 function allCorrect(resultText, resultImg) {
   resultText.innerHTML = "Herzlichen Glückwunsch! Du hast alle Fragen richtig beantwortet!";
-    resultImg.src = "img/all-answers-right-img.gif";
+    resultImg.src = "img/end-img-1.png";
     resultImg.alt = "Alle Antworten richtig";
     goodJob.play();
 }
 
 function noneCorrect(resultText, resultImg) {
   resultText.innerHTML = "Oh nein! Du hast keine Frage richtig beantwortet. Versuch es gerne noch einmal!";
-    resultImg.src = "img/no-right-answers-img.gif";
+    resultImg.src = "img/end-img-2.png";
     resultImg.alt = "Keine richtige Antwort";
 }
 
 function someCorrect(resultText, resultImg) {
  resultText.innerHTML = "Du hast einige Fragen richtig beantwortet, aber es gibt noch Raum für Verbesserungen. Versuch es gerne noch einmal!";
-    resultImg.src = "img/some-right-answers-img.gif";
+    resultImg.src = "img/end-img-3.png";
     resultImg.alt = "Einige richtige Antworten";
 }
 
 function mostCorrect(resultText, resultImg) {
   resultText.innerHTML = "Gute Arbeit! Du hast die meisten Fragen richtig beantwortet. Versuch es gerne noch einmal, um alle richtig zu bekommen!";
-    resultImg.src = "img/good-job-img.gif";
+    resultImg.src = "img/end-img-4.png";
     resultImg.alt = "Gute Arbeit";
 }

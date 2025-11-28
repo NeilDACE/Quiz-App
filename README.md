@@ -16,3 +16,11 @@ This project is a tribute to the magical world created by J.K. Rowling and allow
 This is an **unofficial, non-commercial fan project**. It is created purely for entertainment and educational purposes among fans.
 
 All names, characters, and related indicia of the Wizarding World are trademarks and/or copyright of J.K. Rowling and Warner Bros. Entertainment Inc. This project is **not affiliated with, endorsed by, or sponsored by** the official rights holders.
+### 🛠️ Technology Stack
+
+Dieses Projekt wurde mit folgenden Technologien entwickelt:
+
+* **HTML5**
+* **CSS3**
+* **JavaScript**
+* **Bootstrap** (für responsives Design und Komponenten)
